@@ -1,0 +1,193 @@
+WEBVTT
+
+00:09.900 --> 00:15.750
+Before starting the course let me introduce you to the Matlab software itself and the online help that
+
+00:15.750 --> 00:17.990
+is available for this software.
+
+00:18.000 --> 00:25.740
+So if we open up Google or dot com and write Matlab in the search bar then the first website is the
+
+00:25.740 --> 00:28.750
+official website of the Matlab software.
+
+00:28.770 --> 00:32.930
+The first thing you may notice is it's pricing.
+
+00:33.030 --> 00:36.700
+Remember that it comes in four different types of pricing.
+
+00:36.840 --> 00:46.110
+If we click here or we may know more about it for example the first one is the standard software pricing.
+
+00:46.110 --> 00:49.180
+Most of the cases will not be needing it.
+
+00:49.380 --> 00:54.320
+It's a two thousand three hundred and fifty US dollars.
+
+00:54.330 --> 00:57.570
+Then we have the educational version of the software.
+
+00:57.600 --> 01:00.540
+This is around five hundred U.S. dollars.
+
+01:00.570 --> 01:05.520
+Again we have the homework which is around 85 US dollars.
+
+01:05.640 --> 01:11.730
+And then there is the student version which is only 29 US dollars.
+
+01:11.730 --> 01:17.850
+Remember that basically there are a lot of add on products which are essentially the toolboxes that
+
+01:17.850 --> 01:19.650
+the Matlab provides.
+
+01:19.650 --> 01:28.210
+So if you add additional toolboxes it will cost you additional $16 each per toolbox.
+
+01:28.230 --> 01:31.390
+So what kind of tool boxes are there in the Martlet.
+
+01:31.530 --> 01:39.240
+Well there are so many for example from the bioinformatics to man from the Image Processing domain and
+
+01:39.240 --> 01:40.520
+so many others.
+
+01:40.920 --> 01:45.630
+So you can always optimize it based on your specific situation.
+
+01:45.630 --> 01:50.570
+For example we can see available aid on products list or here.
+
+01:51.510 --> 01:53.880
+So we know that there are many.
+
+01:53.880 --> 01:58.160
+For example we have one from the computational biology.
+
+01:58.220 --> 02:03.970
+Another one from finance control systems data science machine learning and many others.
+
+02:04.260 --> 02:10.800
+And the good thing about it is that you can always use the links that are being provided in order to
+
+02:10.800 --> 02:15.330
+browse what actually these two boxes contain.
+
+02:15.330 --> 02:21.120
+For instance if you are interested in the bioinformatics domain so you may click here and you may get
+
+02:21.120 --> 02:28.170
+more information regarding different facilities that are available while using this particular toolbox.
+
+02:28.170 --> 02:35.490
+You may notice the functions or you may look at the documentation's or some apps that are being provided
+
+02:35.490 --> 02:36.270
+to you.
+
+02:36.360 --> 02:43.260
+So these areas are essentially the boltin a function of programs aren't functions that people have written
+
+02:43.260 --> 02:47.360
+for you and you just need to use it.
+
+02:48.090 --> 02:50.270
+So what about the pricing.
+
+02:50.280 --> 02:58.440
+The good thing is that in in some institutes they really have free worsens for their students so they
+
+02:58.440 --> 03:01.620
+buy it in bulk and then they give it to the students.
+
+03:01.650 --> 03:08.160
+So check with your institute if they can provide you with a free copy and if you are a student they
+
+03:08.160 --> 03:14.770
+will definitely have a free version for you if that is not the case then you can buy for only $29.
+
+03:15.060 --> 03:15.600
+Right.
+
+03:15.610 --> 03:19.040
+The next thing is about community health.
+
+03:19.230 --> 03:25.950
+We have a large community of online contributors for this software and here are some of the statistics
+
+03:26.040 --> 03:32.570
+that we have there that we have these many contributors and these many questions per day.
+
+03:32.580 --> 03:34.530
+There is one 20 questions per day.
+
+03:34.830 --> 03:38.770
+There are a whole bunch of other useful information on this website.
+
+03:38.840 --> 03:45.060
+One more interesting thing is for example if you are looking for some code you may have a better look
+
+03:45.100 --> 03:49.800
+at here in the file exchange in the file exchange.
+
+03:49.800 --> 03:56.110
+We have a functions which the people are developing by themselves and then they contributed over who
+
+03:56.140 --> 03:56.840
+were here.
+
+03:56.850 --> 04:01.790
+And we also have Eppes examples videos and many other resources.
+
+04:01.800 --> 04:09.690
+So basically when you do advanced programming in Matlab you may not be able to get the answers of each
+
+04:09.690 --> 04:15.930
+and every questions directly or alternatively you may be looking for some specific scenario for which
+
+04:15.930 --> 04:17.760
+you are looking for an answer.
+
+04:17.790 --> 04:24.120
+So the best place to look for the answers or specific problems is to search it over a year.
+
+04:24.120 --> 04:31.050
+The other interesting place that you may be interested on this website and that may be of interest to
+
+04:31.050 --> 04:32.850
+you is the support section.
+
+04:32.850 --> 04:35.820
+So for instance you can write anything over here.
+
+04:35.850 --> 04:42.300
+For example I am interested in the definition of the function called Mean which computes the average.
+
+04:42.330 --> 04:43.850
+So I will go to this approach.
+
+04:43.980 --> 04:47.040
+So in support again we have so many different options.
+
+04:47.040 --> 04:53.460
+For instance when I look at the answers or at the file exchange repository or the examples.
+
+04:53.640 --> 04:58.040
+Additionally we have a lot of videos that people try to contribute here.
+
+04:58.410 --> 05:05.070
+So in conclusion it is your best website and if you are stuck with some very specific problem that you
+
+05:05.070 --> 05:12.130
+find difficult and you are looking for possible solutions then your place there was a little interaction
+
+05:12.130 --> 05:14.380
+of the Matlab software and its pricing.
+
+05:14.390 --> 05:15.610
+See when the course.
